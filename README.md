@@ -7,4 +7,4 @@ Actualmente estudiando **DAM**
 - **Herramientas:** Git, GitHub, GitLab, Docker
 
 ## 📫 Contacto
-- 🌐 **LinkedIn**: [Carmen García-Muñoz Martín](www.linkedin.com/in/carmen-garcia-munoz)
+- 🌐 **LinkedIn**: [Carmen García-Muñoz Martín](https://www.linkedin.com/in/carmen-garcia-munoz)
